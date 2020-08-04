@@ -172,7 +172,7 @@ public class SupportMapDemoActivity extends AppCompatActivity implements OnMapRe
 
     public void setAnchor(View view) {
         if (mBeijing != null) {
-            mBeijing.setAnchor(0.9F, 0.9F);
+            mBeijing.setMarkerAnchor(0.9F, 0.9F);
         }
     }
 

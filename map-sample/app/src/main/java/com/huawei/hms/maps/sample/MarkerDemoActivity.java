@@ -419,7 +419,7 @@ public class MarkerDemoActivity extends AppCompatActivity implements OnMapReadyC
      */
     public void setMarkerAnchor(View view) {
         if (mParis != null) {
-            mParis.setAnchor(0.9F, 0.9F);
+            mParis.setMarkerAnchor(0.9F, 0.9F);
         }
     }
 
