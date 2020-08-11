@@ -10,7 +10,6 @@ English | [中文](https://github.com/HMS-Core/hms-mapkit-demo-java/blob/master/
  * [Introduction](#introduction)
  * [Getting Started](#getting-started)
  * [Supported Environments](#supported-environments)
- * [Support](#support)
  * [Result](#result)
  * [License](#license)
 
@@ -53,10 +52,6 @@ Supported Environments
 
 Android SDK Version >= 19 and JDK version >= 1.8 is recommended.
 
-Support
--------
-
-If you have any questions or suggestions during use, welcome suggestions or communicate here: https://github.com/HMS-Core/hms-mapkit-demo-java/issues
 
 ## Result
 
